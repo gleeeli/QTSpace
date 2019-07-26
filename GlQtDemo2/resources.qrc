@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file alias="icon">image/fengjing.png</file>
+        <file alias="quan">image/quan.png</file>
+    </qresource>
+</RCC>
